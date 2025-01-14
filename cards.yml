@@ -1,8 +1,8 @@
 build:
-  version: "3.0"
+  version: "3.1"
 
 cards:
-  message: "Welcome to EazyBank cards related local APIs "
+  message: "Welcome to EazyBank cards related local APIs"
   contactDetails:
     name: "Dragos Lech - Developer"
     email: "{cipher}AQDBEswhARdDn2TC4AOO3Re1/A/BfPCeWjkrzn0CRjhSRwVgj8rQSCo8mnVjdDMeqJrm4+IWaGhG1KiOzY5Y4S8fTNF0oTplOnvI9ekFtkNsjN/9QkS7VRf7VHYsVMRjlHlgpriXuekW6XQGj3zfzxkIO4RolQdBCVTtcxfSrY59S8tLyz1Prw3vVekc7TtJTnUAu0OrUYLBoQYdogEPgpqG6iqB3ZalQ17I44eRkU0CvCHyF1W+rs0c9X9SNSSgdMtCg7oFL/fWnthal/vvYp1CAsOQcBykaDC2BWLLevyjuTRx8pkghECIPjTxmKiOLry5uPP1r+YDVmmnT2cx3pjdy3Bdcykkmu18GZHQW39xV0AbXfbIsZFOziRbadPBOaJkWXsowlTctQXlvdOYvSE/"
